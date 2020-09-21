@@ -1,7 +1,7 @@
 # CS10-Q1-Websites-Sandbox
 HELLO WORLD
 
-My name is Cezar-Ionut Pletea and I’m from Romania, Europe. I am 14 and a half years old and my dream is to become a professional in the computer and programming domain.I love having big dreams that no one’s going to stop me from achieving them. As you can see I am really motivated about my life goals and dreams. I want to be a big part of the future so that everyone would recognize me for what I have achieved enthuse years. Right now i am a student at Q.E highschool.
+My name is Cezar-Ionut Pletea and I’m from Romania, Europe. I am 14 and a half years old and my dream is to become a professional in the computer and programming domain. I love having big dreams that no one’s going to stop me from achieving them. As you can see I am really motivated about my life goals and dreams. I want to be a big part of the future so that everyone would recognize me for what I have achieved enthuse years. Right now i am a student at Q.E highschool.
 <!--On queen e add the website-->
 
 I have a lot of big inspirations in the IT and A.I world, like Bill Gates, Steve Jobs, Elon Musk and Stephen Hawking and I believe that I can be at the level that they are right now.
