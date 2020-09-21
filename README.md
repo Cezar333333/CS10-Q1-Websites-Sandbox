@@ -1,7 +1,8 @@
 # CS10-Q1-Websites-Sandbox
 HELLO WORLD
 
-My name is Cezar-Ionut Pletea and I’m from Romania, Europe. I am 14 and a half years old and my dream is to become a professional in the computer and programming domain.I love having big dreams that no one’s going to stop me from achieving them. As you can see I am really motivated about my life goals and dreams. I want to be a big part of the future so that everyone would recognize me for what I have achieved enthuse years.
+My name is Cezar-Ionut Pletea and I’m from Romania, Europe. I am 14 and a half years old and my dream is to become a professional in the computer and programming domain.I love having big dreams that no one’s going to stop me from achieving them. As you can see I am really motivated about my life goals and dreams. I want to be a big part of the future so that everyone would recognize me for what I have achieved enthuse years. Right now i am a student at Q.E highschool.
+<!--On queen e add the website-->
 
 I have a lot of big inspirations in the IT and A.I world, like Bill Gates, Steve Jobs, Elon Musk and Stephen Hawking and I believe that I can be at the level that they are right now.
 
@@ -11,6 +12,7 @@ Elon Musk - Wikipediaen.wikipedia.org › wiki › Elon_Musk
 Stephen Hawking - Wikipediaen.wikipedia.org › wiki › Stephen_Hawking
 
 Since I was a 6-year old child, I was so interested in apple and all the things that they achieved through the years that it made me dreaming about being an employer at Apple. But, in a few years, this will not be only a dream.
+<!--apple wbsite-->
 
 My biggest mentor and the one that made me love apple and that influenced my life in a good way is actually the inventor of the first iPhone ever made- Steve Jobs
 
