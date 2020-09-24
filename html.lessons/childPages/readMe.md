@@ -1,3 +1,6 @@
+<<<<<<< HEAD:README.md
+# CS10-Q1-Websites-Sandbox    -Cezar
+=======
 # CS10-Q1-Websites-Sandbox
 HELLO WORLD
 
@@ -29,3 +32,4 @@ GO HARD OR GO HOME.
 
 
                                                                                      -Cezar
+>>>>>>> ebb5456558e89e220cba20a3ee61fbe6f49a08b2:html.lessons/childPages/readMe.md
